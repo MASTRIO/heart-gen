@@ -14,3 +14,10 @@ while True:
     keyboard.release('r')
     timesReloaded = timesReloaded + 1
     print("Reload Number", timesReloaded, "Complete!")
+
+    ## Note To Self:
+        # Drink your Milk Gamers!
+
+
+
+        
