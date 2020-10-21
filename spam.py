@@ -6,7 +6,7 @@ import time
 timesSpammed = 0
 
 # Epic Gamer Code
-time.sleep(10)
+time.sleep(20)
 
 while True:
     time.sleep(2)
